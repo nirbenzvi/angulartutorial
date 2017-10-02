@@ -13,7 +13,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent  
 { 
-    title = 'Tour pf Heroes'; 
+    title = 'Tour of Heroes'; 
     hero : Hero = { id: 1, name: 'Windstorm' };
 }
 
